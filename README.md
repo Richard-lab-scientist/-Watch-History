@@ -1,10 +1,8 @@
-# Watch History Analyses
+# Watch History
 ## Project Overview
-A personal data project that tracks and analyzes a year of YouTube viewing;built to see how my screen time aligns with my learning goals.
+A personal data project that tracks and analyses a year of YouTube viewing;built to see how my screen time aligns with my learning goals.
 
 ## 📊 The Dataset
-
-**File:** `watch_history.xlsx` — sheet **Watch History**
 
 | Column | Description |
 |---|---|
@@ -14,14 +12,12 @@ A personal data project that tracks and analyzes a year of YouTube viewing;built
 | `Channel` | Creator / channel name |
 | `Category` | Topic bucket (Psychology, Economics & Finance, Arts, etc.) |
 | `Duration (min)` | Full length of the video |
-| `Completion %` | How much of the video was actually watched 
 | `Month` | Month label, for trend rollups |
 
 **At a glance**
 - **199** logged viewing sessions
 - **June 2025 → June 2026** (~12.5 months)
 - **120** unique videos across **25** channels
-- **86.9%** average completion rate — when a video got clicked, it mostly got watched
 
 ## 🏆 Key Insights
 
@@ -42,22 +38,14 @@ A personal data project that tracks and analyzes a year of YouTube viewing;built
 | Khan Academy | 12 | 
 | 10,000 Black Intern | 11 | 
 
-### Viewing rhythm
+
+### Montly Trend
 - **Busiest month:** January 2026 (22 sessions) — new year, new habits, apparently
 - **Quietest month:** June 2025 (8 sessions) — the very start of tracking
-- **Favorite day to watch:** Thursday (33 sessions), closely followed by Monday (30)
+<img width="928" height="282" alt="Screenshot 2026-06-25 122540" src="https://github.com/user-attachments/assets/b3197bfd-a174-44f8-85a9-55f212b85754" />
 
 ## 🗂️ Categories Tracked
 `Economics & Finance` · `Markets & Investments` · `Entertainment` · `Psychology` · `Mathematics` · `Technology & AI` · `Arts` · `CV & Networking` · `Learning` · `Learning Science` · `Neuroscience/Productivity`
 
 ## 🛠️ Tools Used
 - **Excel** — data entry, pivot tables, and the summary stats 
-
-
-## 📁 Repo Structure
-```
-.
-├── watch_history.xlsx     # the raw log
-└── README.md               # you are here
-```
-
