@@ -48,4 +48,4 @@ A personal data project that tracks and analyses a year of YouTube viewing;built
 `Economics & Finance` · `Markets & Investments` · `Entertainment` · `Psychology` · `Mathematics` · `Technology & AI` · `Arts` · `CV & Networking` · `Learning` · `Learning Science` · `Neuroscience/Productivity`
 
 ## 🛠️ Tools Used
-- **Excel** — data entry, pivot tables, and the summary stats 
+- **Excel** — data entry, pivot tables, and the summary stats [Download Here](https://github.com/Richard-lab-scientist/-Watch-History/raw/refs/heads/main/Youtube%20learning%20History.xlsx)
